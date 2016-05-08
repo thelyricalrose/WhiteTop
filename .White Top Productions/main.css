@@ -1,0 +1,89 @@
+/*reference Hex values*/
+#reference{
+    
+
+color:#9381FF;
+color:#F8F7FF;
+color:#8EE3F5;
+color:#E9F5F7;
+color:#6B818C;
+}
+
+
+body{
+    overflow-x:hidden;
+    background-color: #6B818C;
+
+}
+
+.pal{
+    height: 500px;
+}
+
+.outerShell{
+    position: relative;
+}
+
+.innerShell{
+    position:absolute;
+    top: 50%;
+    height: 10em;
+    margin-top: -5em;
+    left: 30%;
+    right: 30%;
+}
+
+.weAre{
+    height:75vh;
+    background-color: #F8F7FF;
+    font-family: 'Titillium Web', sans-serif;
+}
+#hero{
+    width: 100%;
+    height: 100vh;
+    max-height: inherit;
+    background-color:#E9F5F7;
+    color: #9281FF;
+    text-shadow: 1px 1px 4px #6B818C;
+    
+}
+
+#logo{
+    background-color:#6B818C;
+    width: 300px;
+    height: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 8vh;
+    border-radius: 100%;
+}
+
+.frontPanel{
+    width: auto;
+    height: 34vh;
+    background-color: #8EE3F5;
+    font-family: 'Raleway', sans-serif;
+}
+
+
+
+#c1{
+    background-color: #9281FF;
+}
+
+#c2{
+    background-color: #F8F7FF;
+}
+
+#c3{
+    background-color: :#8EE3F5;
+}
+
+#c4{
+    background-color: #E9F5F7;
+}
+
+#c5{
+    background-color: #6B818C;
+;
+}
